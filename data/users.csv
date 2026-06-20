@@ -1,0 +1,9 @@
+username,passwordHash,fullName,role,phoneNumber,email,address,department,statusOrLevel
+admin,YWRtaW4xMjM=,System Administrator,ADMIN,,,,,1
+emp1,ZW1wMTIz=,John Doe (Water Dept),EMPLOYEE,,,,WATER,ACTIVE
+emp2,ZW1wMTIz=,Jane Smith (Sanitation Dept),EMPLOYEE,,,,SANITATION,ACTIVE
+citizen,Y2l0MTIz=,Alice Brown,CITIZEN,9876543210,alice@gmail.com,12 Ward Road,,
+hariharanr777,SGFyaUA3Nzc=,Hariharan R,CITIZEN,6361836150,hariharanr777@gmail.com,20/26 anna street anna nagar,,
+Hari777,SGFyaUA3Nzdc,Hariharan R,CITIZEN,6351665130,Hari777@gmail.com,20/26 annanagar chennai,,
+Hari,SGFyaTc3Nw==,Hariharan R,CITIZEN,6351885120,rhariharan7@gmail.com,20/26 annanagar chennai,,
+Devv,MTIz,Devendiran,CITIZEN,1234567890,devendiran@gmail.com,1/46 Chennai,,

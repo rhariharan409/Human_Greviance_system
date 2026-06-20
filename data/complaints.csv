@@ -1,0 +1,5 @@
+complaintId,title,description,category,ward,affectedPeople,severity,priorityScore,status,citizenUsername,assignedEmployeeUsername,daysPending
+CMP-1001,Sewage Leak near Market,Water and sewage overflow near central market,Sewage Overflow,Ward 3,45,7,50,PENDING,citizen,Unassigned,2
+CMP-1002,Potholes on Main Junction,Deep potholes causing vehicle damage,Road Damage,Ward 5,150,5,52,PENDING,citizen,Unassigned,1
+CMP-1003,Road Damage,the roads near the hospital is completly damaged so it causes lot of accidents,Road Damage,Ward 1 (Hospital),50,8,64,PENDING,Hari,Unassigned,0
+CMP-1004,Gooning,Hari Always Gooning,Sewage Overflow,Ward 3 (School),1,5,35,PENDING,Devv,Unassigned,0
